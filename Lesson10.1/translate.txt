@@ -1,0 +1,10 @@
+mother,мат≥р
+father,батько
+cat,к≥т
+dog,собака
+walk,гул€ти
+like,люблю
+I,€
+word,слово
+street,вулиц€
+window,в≥кно
